@@ -3,7 +3,7 @@
 More info on my website, [https://vedantzope.com](https://vedantzope.github.io/info/). Check out my blogs on my website, too!!  
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Undergraduate+student+at+IIT+Kharagpur;Aspiring+Computational+Engineer;Passionate+about+solving+real+life+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Master's+student+at+University+of+Pennsylvania)](https://git.io/typing-svg)
 
 
 
