@@ -14,7 +14,7 @@ More info on my website, [https://vedantzope.com](https://vedantzope.github.io/i
 <a href="https://www.linkedin.com/in/vedant-zope/"><img src="https://img.shields.io/badge/vedant-zope-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ## Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantZope&layout=compact&theme=dark)](https://github.com/VedantZope/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantZope&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools I work with:
 
