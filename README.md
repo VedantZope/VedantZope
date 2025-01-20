@@ -2,9 +2,7 @@
 
 More info on my website, [https://vedantzope.com](https://vedantzope.github.io/info/). Check out my blogs on my website, too!!  
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Grad+Student+at+the+University+of+Pennsylvania)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Grad+Student+at+the+University+of+Pennsylvania)](https://git.io/typing-svg) 
 
 
 ## How to reach me: 
@@ -12,6 +10,8 @@ More info on my website, [https://vedantzope.com](https://vedantzope.github.io/i
 <img src="https://img.shields.io/badge/vedantzope%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 <a  href="https://www.instagram.com/vedantzope/">   <img src="https://img.shields.io/badge/@vedantzope-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/vedant-zope/"><img src="https://img.shields.io/badge/vedant-zope-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+<!--  [![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantzope&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantZope&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
